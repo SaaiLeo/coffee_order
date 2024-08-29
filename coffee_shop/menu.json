@@ -1,0 +1,34 @@
+{
+  "menus": [
+    {
+      "name": "Mocha",
+      "image": "mocha",
+      "price": "$2.99",
+      "rating": "4.5"
+    },
+    {
+      "name": "Cappuccino",
+      "image": "cappuccino",
+      "price": "$4.99",
+      "rating": "4.7"
+    },
+    {
+      "name": "Espresso",
+      "image": "espresso",
+      "price": "$9.99",
+      "rating": "4.3"
+    },
+    {
+      "name": "Latte",
+      "image": "latte",
+      "price": "$6.99",
+      "rating": "4.8"
+    },
+    {
+      "name": "Hot Chocolate",
+      "image": "hotchocolate",
+      "price": "$7.99",
+      "rating": "4.6"
+    }
+  ]
+}
